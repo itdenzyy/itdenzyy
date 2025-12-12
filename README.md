@@ -20,7 +20,7 @@ English, Latvian and Russian.
 
 ### My work
 
-<button class="btn-1">Watch</button>
+<button class="btn-1"><a href="https://itdenzyy.github.io/denzyy.github.io/">Profile link (html/css)</a></button>
 
 ### Contacts
 email: denissmaklers@gmail.com

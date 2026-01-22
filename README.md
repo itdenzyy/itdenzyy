@@ -5,7 +5,7 @@
  
 ### Education
 Vocational secondary education - PIKC "Rigas Tehniska koledza" (2017-2021). Riga, Latvia - (Computer technician). <br>
-Programming course - Macibu centrs "Dialogs AB" (2025). Riga, Latvia - (Front-End developer).
+Programming course - Macibu centrs "Dialogs AB" (2025). Riga, Latvia - (HTML/CSS/JavaScript).
 
 ### Languages
 English, Latvian and Russian.
